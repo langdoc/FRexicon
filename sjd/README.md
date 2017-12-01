@@ -9,6 +9,6 @@ The database and documentation is still in an early beta stage. A detailed descr
 
 # Citation
 
-The project is licensed under the terms of the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Whenever you use the whole database or subsets of it provide proper attribution by citing:
+The project is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Whenever you use the whole database or subsets of it provide proper attribution by citing:
 
 Ciprian Gerstenberger, Michael Rießler (2017). *Kildin Saami Lexical Database.* Version 0.1.0. https://github.com/langdoc/FRexicon/sjd/.
